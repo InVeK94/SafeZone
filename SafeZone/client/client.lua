@@ -16,7 +16,6 @@ local disabledSafeZonesKeys = {
 	{group = 0, key = 69, message = '~r~Vous ne pouvez pas faire ceci en SafeZone'},
 	{group = 0, key = 92, message = '~r~Vous ne pouvez pas faire ceci en SafeZone'},
 	{group = 0, key = 106, message = '~r~Vous ne pouvez pas faire ceci en SafeZone'},
-	{group = 0, key = 168, message = '~r~Vous ne pouvez pas faire ceci en SafeZone'}
 }
 
 local notifIn, notifOut = false, false
